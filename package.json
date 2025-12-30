@@ -1,0 +1,17 @@
+{
+  "name": "self-driving-car-javascript",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "axios": "^1.13.1",
+    "minimist": "^1.2.8",
+    "socket.io": "^2.4.1"
+  }
+}
