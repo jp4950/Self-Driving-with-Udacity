@@ -3,6 +3,7 @@ Clone the Unity_2020_3 from the Udacity github (https://github.com/udacity/self-
 
 
 ## Training
+Use Unity editor version 2020.3.0f1, download it from the unity hub
 
 Open the simulator in training mode and drive the car for about 3 rounds to collect data
 
