@@ -1,0 +1,18 @@
+# Installing Udacity simulator
+Clone the Unity_2020_3 from the Udacity github (https://github.com/udacity/self-driving-car-sim)
+
+
+## Training
+
+Open the simulator in training mode and drive the car for about 3 rounds to collect data
+
+To start collecting data, press the record button on the top right that shows up in the training mode
+
+Train the model using the training.ipynb
+## Usage
+
+Run the the proxy.js and drive.py simultaneously after training the model
+
+proxy.js acts as a middleware between drive.py and the Udacity simulator
+
+In the Udacity simulator go into autonomous mode, and the car should start driving automatically
