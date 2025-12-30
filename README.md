@@ -10,6 +10,7 @@ To start collecting data, press the record button on the top right that shows up
 
 Train the model using the training.ipynb
 ## Usage
+Before running the proxy.js, make sure you have package.json and package-lock.json in the directory and run npm install to get the required packages for proxy.js to run
 
 Run the the proxy.js and drive.py simultaneously after training the model
 
